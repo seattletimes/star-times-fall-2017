@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Justin Seiber",
+    "school": "Kentwood",
+    "position": "QB",
+    "sport": "football",
+    "height, weight": "6-3, 185",
+    "year": "Sr.",
+    "blurb": "The NPSL Cascade Division’s Co-Offensive Back of the Year completed 66.4 percent of his passes for 3,297 yards with 36 touchdowns and seven interceptions.",
+    "image": "Seiber.jpg"
+  },
+  {
+    "name": "Jonny Barrett",
+    "school": "Mount Si",
+    "position": "WR",
+    "sport": "football",
+    "height, weight": "6-3, 180",
+    "year": "Jr.",
+    "blurb": "Set a school record for receiving yards in a season with 1,004 on 66 catches with 15 touchdowns. Named to the All-Kingco 4A first-team on offense.",
+    "image": "Barrett.jpg"
+  },
+  {
+    "name": "Talan Alfrey",
+    "school": "Auburn Mountainview",
+    "position": "WR",
+    "sport": "football",
+    "height, weight": "6-2, 195",
+    "year": "Sr.",
+    "blurb": "The BYU commit averaged 120 receiving yards per game, finishing with 1,081  on 68 catches with 12 touchdowns. Two-way player named NPSL Olympic Division Defensive Player of the Year. ",
+    "image": "Alfrey.jpg"
+  },
+  {
+    "name": "Isaiah Ifanse",
+    "school": "Bellevue",
+    "position": "RB",
+    "sport": "football",
+    "height, weight": "5-11, 190",
+    "year": "Sr.",
+    "blurb": "Elusive player finished with 2,091 rushing yards on 207 carries to help Wolverines reach the Class 3A state semifinals. He was named Kingco 3A Offensive MVP.",
+    "image": "Ifanse.jpg"
+  },
+  {
+    "name": "Delvon McNeely",
+    "school": "Hazen",
+    "position": "RB",
+    "sport": "football",
+    "height, weight": "6-1, 200",
+    "year": "Sr.",
+    "blurb": "Key cog for the Highlanders with 1,514 rushing yards with 23 touchdowns. Named the NPSL Cascade Division’s Co-Offensive Back of the Year.",
+    "image": "McNeely.jpg"
+  },
+  {
+    "name": "Anthony Stell",
+    "school": "Rainier Beach",
+    "position": "TE",
+    "sport": "football",
+    "height, weight": "5-10, 170",
+    "year": "Sr.",
+    "blurb": "amed to the Metro League Mountain Division’s first-team in helping Rainier Beach advance to its first state title game.",
+    "image": "Stell.jpg"
+  },
+  {
+    "name": "Matthew Cindric",
+    "school": "Skyline",
+    "position": "OL",
+    "sport": "football",
+    "height, weight": "6-4, 250",
+    "year": "Sr.",
+    "blurb": "A California commit, Cindric was named the Kingco 4A Lineman of the Year. The Spartans advanced to the state tournament quarterfinals.",
+    "image": "Cindric.jpg"
+  },
+  {
+    "name": "Cade Beresford",
+    "school": "Woodinville",
+    "position": "OL",
+    "sport": "football",
+    "height, weight": "6-7, 250",
+    "year": "Sr.",
+    "blurb": "The Washington State commit was named to the All-Kingco 4A  first team. The Falcons were undefeated in league play and advanced to the state tournament finals.",
+    "image": "Beresford.jpg"
+  },
+  {
+    "name": "Nathaniel Kalepo",
+    "school": "Rainier Beach",
+    "position": "OL",
+    "sport": "football",
+    "height, weight": "6-5, 290",
+    "year": "Jr.",
+    "blurb": "Made a name for himself in just the second season starting on the offensive line, helping the Vikings to the state title game.",
+    "image": "Kalepo.jpg"
+  },
+  {
+    "name": "Jackson Reed",
+    "school": "Eastside Catholic",
+    "position": "OL",
+    "sport": "football",
+    "height, weight": "6-3, 280",
+    "year": "Sr. ",
+    "blurb": "Named to the All-Metro League Mountain Division’s first-team and was a key reason the top-ranked Crusaders reached the state quarterfinals.",
+    "image": "Reed.jpg"
+  },
+  {
+    "name": "Griffin Korican",
+    "school": "O'Dea",
+    "position": "OL",
+    "sport": "football",
+    "height, weight": "6-5, 295",
+    "year": "Sr.",
+    "blurb": "The Colorado School of Mines commit was named Offensive Lineman of the Year for the Metro League’s Mountain Division.",
+    "image": "Korican.jpg"
+  },
+  {
+    "name": "Brock Widman",
+    "school": "Lake Stevens",
+    "position": "K",
+    "sport": "football",
+    "height, weight": "6-3, 160",
+    "year": "Jr.",
+    "blurb": "Widmann went 69 for 71 on PATs. He also made all four of the field goals he attempted, the longest being 32 yards.",
+    "image": "Widman.jpg"
+  },
+  {
+    "name": "Tiano Malietufa",
+    "school": "Auburn Riverside",
+    "position": "Ath",
+    "sport": "football",
+    "height, weight": "5-11, 225",
+    "year": "Sr.",
+    "blurb": "The NPSL Olympic Division’s Offensive MVP totaled 2,373 total yards as the starting quarterback. On defense, he had 70 total tackles. ",
+    "image": "Malietufa.jpg"
+  },
+  {
+    "name": "Jake Baillie",
+    "school": "Woodinville",
+    "position": "DL",
+    "sport": "football",
+    "height, weight": "6-0, 220",
+    "year": "Sr.",
+    "blurb": "Captain of one of the best defenses in the state, the “Dark Side,” Baillie had 12 sacks and was named Kingco 4A MVP for defense.",
+    "image": "Baillie.jpg"
+  },
+  {
+    "name": "Matt Sevao",
+    "school": "Lake Stevens",
+    "position": "DL",
+    "sport": "football",
+    "height, weight": "6-3, 200",
+    "year": "Sr.",
+    "blurb": "Set a program record with 17 sacks and 118 total tackles  to help the Vikings clinch a seventh-straight Wesco 4A league title. Named all-league first team on defense.",
+    "image": "Sevao.jpg"
+  },
+  {
+    "name": "Davion Dixon",
+    "school": "O'Dea",
+    "position": "DL",
+    "sport": "football",
+    "height, weight": "6-2, 3-5",
+    "year": "Sr.",
+    "blurb": "Named the Metro League Mountain Division’s Defensive Lineman of the Year. O’Dea advanced to the Class 3A state finals.",
+    "image": "Dixon.jpg"
+  },
+  {
+    "name": "Justus Legg",
+    "school": "Auburn Riverside",
+    "position": "DL",
+    "sport": "football",
+    "height, weight": "6-3, 220",
+    "year": "Jr. ",
+    "blurb": "The four-star recruit helped the Ravens open the 2017 season with three straight shutouts. Named to the NPSL’s Olympic Division’s first-team on defense.",
+    "image": "Legg.jpg"
+  },
+  {
+    "name": "Ricky Baker",
+    "school": "Monroe",
+    "position": "LB",
+    "sport": "football",
+    "height, weight": "5-11, 202",
+    "year": "Sr.",
+    "blurb": "The Wesco 4A first-team pick helped the Bearcats win the first state tournament game in school history. Had 93 solo tackles – 142 total – with seven sacks and one interception.",
+    "image": "Baker.jpg"
+  },
+  {
+    "name": "Sav'ell Smalls",
+    "school": "Garfield",
+    "position": "LB",
+    "sport": "football",
+    "height, weight": "6-4, 235",
+    "year": "So.",
+    "blurb": "Already garnering interest from schools such as Notre Dame and Alabama, he helped Bulldogs advance to first Class 3A state semifinal since 1977. Metro League Co-Defensive MVP has 90 tackles with nine sacks.",
+    "image": "Smalls.jpg"
+  },
+  {
+    "name": "Dominic Lawrence",
+    "school": "Edmonds-Woodway",
+    "position": "LB",
+    "sport": "football",
+    "height, weight": "5-7, 185",
+    "year": "Sr.",
+    "blurb": "Helped the Warriors go undefeated in Wesco 3A/2A South Division play and advance to the state tournament for first time since 2011. Named all-league first team on defense.",
+    "image": "Lawrence.jpg"
+  },
+  {
+    "name": "Ryan Taylor",
+    "school": "Eastside Catholic",
+    "position": "LB",
+    "sport": "football",
+    "height, weight": "6-2, 225",
+    "year": "Sr. ",
+    "blurb": " Taylor, who was named All-Metro League Mountain Division first-team, finished with 91 tackles and three sacks.",
+    "image": "Taylor.jpg"
+  },
+  {
+    "name": "Malik Putney",
+    "school": "Eastside Catholic",
+    "position": "DB",
+    "sport": "football",
+    "height, weight": "6-0, 200",
+    "year": "Sr.",
+    "blurb": "The team captain, named the Metro League’s Mountain Division’s Co-Defensive MVP, had five interceptions. One was a school-record 99-yard touchdown return to advance the Crusaders to the Class 3A state quarterfinals. ",
+    "image": "Putney.jpg"
+  },
+  {
+    "name": "Kyler Gordon",
+    "school": "Archbishop Murphy",
+    "position": "DB",
+    "sport": "football",
+    "height, weight": "5-11, 180",
+    "year": "Sr.",
+    "blurb": "The four-star recruit helped the Wildcats win back-to-back Cascade Conference titles and advance to the Class 2A state semifinals the year after winning state. Had five interceptions and a combined 10 touchdowns on offense and special teams.",
+    "image": "Gordon.jpg"
+  },
+  {
+    "name": "Nash Fouch",
+    "school": "Woodinville",
+    "position": "DB",
+    "sport": "football",
+    "height, weight": "6-3, 180",
+    "year": "Sr. ",
+    "blurb": "The first-team all-Kingco 4A pick is part of the “Dark Side” defense that is tops in the state. Was named to the Star Times team as a receiver last year and is committed to Montana.",
+    "image": "Fouch.jpg"
+  },
+  {
+    "name": "Jaden Robinson",
+    "school": "Auburn Riverside",
+    "position": "DB",
+    "sport": "football",
+    "height, weight": "6-1, 180",
+    "year": "Sr.",
+    "blurb": "Named the NPSL’s Olympic Division’s Defense Back of the Year after totaling six interceptions for the Ravens. Also used on special teams. ",
+    "image": "Robinson.jpg"
+  },
+  {
+    "name": "Lance D'Alessio",
+    "school": "Lake Washington",
+    "position": "P ",
+    "sport": "football",
+    "height, weight": "6-1, 158",
+    "year": "Sr.",
+    "blurb": "The Kingco 3A first-team pick had 48 punts this season for 1,852 total yards, the longest being 54-yards. Also averaged 54.2 yards on kickoffs and hit 28 of his 36 PAT attempts.",
+    "image": "D'Alessio.jpg"
+  },
+  {
+    "name": "Mark Gunderson",
+    "school": "Enumclaw",
+    "position": "Coach",
+    "sport": "football",
+    "blurb": "In his sixth season, the NPSL Olympic Division Coach of the Year helped the Hornets win their first division title in 21 seasons. Finished  8-3 with a state preliminary round appearance.",
+    "image": "Gunderson.jpg"
+  }
+]
